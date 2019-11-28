@@ -4,7 +4,7 @@ layout: default
 
 Text can be **Hello**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Resume](./resume.html).
 
 There should be whitespace between paragraphs.
 
