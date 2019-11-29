@@ -3,9 +3,9 @@
 <h3>tim@codegauchos.com</h3>
 
 <h2>EXPERIENCE</h2>		
-### August 2017                Code Gauchos, Inc
-### To  Present                   Lake Forest, CA
-                                     Chief Executive Officer
+#### August 2017                Code Gauchos, Inc
+#### To  Present                   Lake Forest, CA
+####                                 Chief Executive Officer
 				     
 *	Co-founded a coding school dedicated to teaching computer programming languages as a fluency
 *	Developed lesson plans and taught students from 3rd-12th grade for Scratch and Python courses
