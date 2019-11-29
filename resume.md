@@ -1,14 +1,8 @@
----
-layout: default
-title: Resume
----
-# Resume page
-
 <h1>Timothy Sandberg</h1>
 <h2>Phone: 949.681.6948</h2>
-tim@codegauchos.com
+<h2>tim@codegauchos.com</h2>
 
-EXPERIENCE		
+<h2>EXPERIENCE</h2>		
 August 2017                Code Gauchos, Inc
 To  Present                   Lake Forest, CA
                                      Chief Executive Officer
