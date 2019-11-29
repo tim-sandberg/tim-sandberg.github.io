@@ -1,4 +1,4 @@
-Timothy Sandberg
+<h1>Timothy Sandberg</h1>
 Phone: 949.681.6948
 tim@codegauchos.com
 
