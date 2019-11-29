@@ -1,5 +1,11 @@
+---
+layout: default
+title: Resume
+---
+# Resume page
+
 <h1>Timothy Sandberg</h1>
-Phone: 949.681.6948
+<h2>Phone: 949.681.6948</h2>
 tim@codegauchos.com
 
 EXPERIENCE		
