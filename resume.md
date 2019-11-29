@@ -8,31 +8,33 @@ To  Present                   Lake Forest, CA
                                      Chief Executive Officer
 				     <ul>
 <li>	Co-founded a coding school dedicated to teaching computer programming languages as a fluency</li>
-<li>•	Developed lesson plans and taught students from 3rd-12th grade for Scratch and Python courses</li>
-<li>•	Taught "Hour of Code" to nearly 500 students at Rancho Cañada Elementary School, Lake Forest</li>
-<li>•	For Parent's Night Out, developed lesson plans and instructed children on LearntoMod.com's block-based language for "modding" Minecraft</li>
-<li>•	For Summer Camp curriculum, created lesson plans for web development (Angular/Typescript), Android app development</li>
+<li>	Developed lesson plans and taught students from 3rd-12th grade for Scratch and Python courses</li>
+<li>	Taught "Hour of Code" to nearly 500 students at Rancho Cañada Elementary School, Lake Forest</li>
+<li>	For Parent's Night Out, developed lesson plans and instructed children on LearntoMod.com's block-based language for "modding" Minecraft</li>
+<li>	For Summer Camp curriculum, created lesson plans for web development (Angular/Typescript), Android app development</li>
 </ul>
 October 2015                Mobilitie, LLC
 To  August 2017           Costa Mesa, CA
                                      Software Developer/Contractor
-•	Designed and developed a real estate property management application using Angular 2 and Web API. Used JSON Web Tokens to implement ASP.Net Identity 2 and OAuth for authentication and authorization.
-•	Deployed apps to Microsoft Azure App/SQL services
-•	Implemented Visual Studio Team Services, including Active Directory integration for software development team
-•	Designed and developed an MVC 5 application to administer milestone data for Sprint build-out of cell phone towers (mini macros/macros)
-•	Built Web API application to service JSON web services to mobile phones
-
+				     <ul>
+<li>	Designed and developed a real estate property management application using Angular 2 and Web API. Used JSON Web Tokens to implement ASP.Net Identity 2 and OAuth for authentication and authorization.</li>
+<li>	Deployed apps to Microsoft Azure App/SQL services</li>
+<li>	Implemented Visual Studio Team Services, including Active Directory integration for software development team</li>
+<li>	Designed and developed an MVC 5 application to administer milestone data for Sprint build-out of cell phone towers (mini macros/macros)</li>
+<li>	Built Web API application to service JSON web services to mobile phones</li>
+</ul>
 January 2014                Toshiba America Business Solutions
 To  October 2015          Irvine, CA
                                      Lead Digital Signage Developer/Contractor
-•	Led development team that created Los Angeles Angels, Los Angeles Kings and Los Angeles Clippers interactive touch screen projects for the Toshiba venue at Angels Stadium and Staples Center
-•	Architected and configured topology that included an open source server-side stack(Tomcat 8/Java 1.8/Jersey/Jackson/Hibernate 4.3/JDBC/MySQL 5.5) on Centos 6 VMs for production/development environments and ASP.Net functionality on Intel NUCs to support IntuiFace touch screen kiosks
-•	Designed and developed a REST API application that served Houston Astros images, player profiles, game schedule, and standings via JSON for IntuiFace Astros touch screens at Minute Maid Park. 
-•	Using Quartz scheduler, developed cron jobs to calculate baseball player eligibility for post-season awards.  On touch screen attached Windows 8 Intel NUC, I created .Net Web API 2, self-hosting, REST API server as a windows service to provide memory caching for expensive web service requests on the interactive touch screen.  Configured IntuiFace touch screen software to handle complex REST API calls to deliver dynamic content to Houston Astros touch screens. 
-•	Led implementation of SportRadar API to provide data source for hockey, basketball and baseball projects.  In java, created weather API that sourced its data from worldweatheronline and allowed for substitution of weather icons.
-•	Created capability to switch between modal, IntuiFace touch screen application to Windows app, air hockey game, using Web API, Windows executables and Windows API
-•	Drafted the technical response to City of Denver RFP that led to Toshiba win.  Architected and led requisition of Virtuoso digital signage web and data tiers.  Additionally, I configured Apache Tomcat 8 and MySQL 5.2 database on Centos Linux servers for both Virtuoso test and production instances.    
-
+				     <ul>
+<li>	Led development team that created Los Angeles Angels, Los Angeles Kings and Los Angeles Clippers interactive touch screen projects for the Toshiba venue at Angels Stadium and Staples Center</li>
+<li>	Architected and configured topology that included an open source server-side stack(Tomcat 8/Java 1.8/Jersey/Jackson/Hibernate 4.3/JDBC/MySQL 5.5) on Centos 6 VMs for production/development environments and ASP.Net functionality on Intel NUCs to support IntuiFace touch screen kiosks</li>
+<li>	Designed and developed a REST API application that served Houston Astros images, player profiles, game schedule, and standings via JSON for IntuiFace Astros touch screens at Minute Maid Park. </li>
+<li>	Using Quartz scheduler, developed cron jobs to calculate baseball player eligibility for post-season awards.  On touch screen attached Windows 8 Intel NUC, I created .Net Web API 2, self-hosting, REST API server as a windows service to provide memory caching for expensive web service requests on the interactive touch screen.  Configured IntuiFace touch screen software to handle complex REST API calls to deliver dynamic content to Houston Astros touch screens. </li>
+<li>	Led implementation of SportRadar API to provide data source for hockey, basketball and baseball projects.  In java, created weather API that sourced its data from worldweatheronline and allowed for substitution of weather icons.</li>
+<li>	Created capability to switch between modal, IntuiFace touch screen application to Windows app, air hockey game, using Web API, Windows executables and Windows API</li>
+<li>	Drafted the technical response to City of Denver RFP that led to Toshiba win.  Architected and led requisition of Virtuoso digital signage web and data tiers.  Additionally, I configured Apache Tomcat 8 and MySQL 5.2 database on Centos Linux servers for both Virtuoso test and production instances.</li>    
+</ul>
 
 September 2013           James Hardie
 To December 2013      Mission Viejo, CA
