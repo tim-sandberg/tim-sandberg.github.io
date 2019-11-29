@@ -6,12 +6,13 @@
 August 2017                Code Gauchos, Inc
 To  Present                   Lake Forest, CA
                                      Chief Executive Officer
-•	Co-founded a coding school dedicated to teaching computer programming languages as a fluency
-•	Developed lesson plans and taught students from 3rd-12th grade for Scratch and Python courses
-•	Taught "Hour of Code" to nearly 500 students at Rancho Cañada Elementary School, Lake Forest
-•	For Parent's Night Out, developed lesson plans and instructed children on LearntoMod.com's block-based language for "modding" Minecraft
-•	For Summer Camp curriculum, created lesson plans for web development (Angular/Typescript), Android app development
-
+				     <ul>
+<li>	Co-founded a coding school dedicated to teaching computer programming languages as a fluency</li>
+<li>•	Developed lesson plans and taught students from 3rd-12th grade for Scratch and Python courses</li>
+<li>•	Taught "Hour of Code" to nearly 500 students at Rancho Cañada Elementary School, Lake Forest</li>
+<li>•	For Parent's Night Out, developed lesson plans and instructed children on LearntoMod.com's block-based language for "modding" Minecraft</li>
+<li>•	For Summer Camp curriculum, created lesson plans for web development (Angular/Typescript), Android app development</li>
+</ul>
 October 2015                Mobilitie, LLC
 To  August 2017           Costa Mesa, CA
                                      Software Developer/Contractor
