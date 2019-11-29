@@ -16,57 +16,57 @@ To  Present                   Lake Forest, CA
 October 2015                Mobilitie, LLC
 To  August 2017           Costa Mesa, CA
                                      Software Developer/Contractor
-				     <ul>
-<li>	Designed and developed a real estate property management application using Angular 2 and Web API. Used JSON Web Tokens to implement ASP.Net Identity 2 and OAuth for authentication and authorization.</li>
-<li>	Deployed apps to Microsoft Azure App/SQL services</li>
-<li>	Implemented Visual Studio Team Services, including Active Directory integration for software development team</li>
-<li>	Designed and developed an MVC 5 application to administer milestone data for Sprint build-out of cell phone towers (mini macros/macros)</li>
-<li>	Built Web API application to service JSON web services to mobile phones</li>
-</ul>
+				     
+*	Designed and developed a real estate property management application using Angular 2 and Web API. Used JSON Web Tokens to implement ASP.Net Identity 2 and OAuth for authentication and authorization.
+*	Deployed apps to Microsoft Azure App/SQL services
+*	Implemented Visual Studio Team Services, including Active Directory integration for software development team
+*	Designed and developed an MVC 5 application to administer milestone data for Sprint build-out of cell phone towers (mini macros/macros)
+*	Built Web API application to service JSON web services to mobile phones
+
 January 2014                Toshiba America Business Solutions
 To  October 2015          Irvine, CA
                                      Lead Digital Signage Developer/Contractor
-				     <ul>
-<li>	Led development team that created Los Angeles Angels, Los Angeles Kings and Los Angeles Clippers interactive touch screen projects for the Toshiba venue at Angels Stadium and Staples Center</li>
-<li>	Architected and configured topology that included an open source server-side stack(Tomcat 8/Java 1.8/Jersey/Jackson/Hibernate 4.3/JDBC/MySQL 5.5) on Centos 6 VMs for production/development environments and ASP.Net functionality on Intel NUCs to support IntuiFace touch screen kiosks</li>
-<li>	Designed and developed a REST API application that served Houston Astros images, player profiles, game schedule, and standings via JSON for IntuiFace Astros touch screens at Minute Maid Park. </li>
-<li>	Using Quartz scheduler, developed cron jobs to calculate baseball player eligibility for post-season awards.  On touch screen attached Windows 8 Intel NUC, I created .Net Web API 2, self-hosting, REST API server as a windows service to provide memory caching for expensive web service requests on the interactive touch screen.  Configured IntuiFace touch screen software to handle complex REST API calls to deliver dynamic content to Houston Astros touch screens. </li>
-<li>	Led implementation of SportRadar API to provide data source for hockey, basketball and baseball projects.  In java, created weather API that sourced its data from worldweatheronline and allowed for substitution of weather icons.</li>
-<li>	Created capability to switch between modal, IntuiFace touch screen application to Windows app, air hockey game, using Web API, Windows executables and Windows API</li>
-<li>	Drafted the technical response to City of Denver RFP that led to Toshiba win.  Architected and led requisition of Virtuoso digital signage web and data tiers.  Additionally, I configured Apache Tomcat 8 and MySQL 5.2 database on Centos Linux servers for both Virtuoso test and production instances.</li>    
-</ul>
+				     
+*	Led development team that created Los Angeles Angels, Los Angeles Kings and Los Angeles Clippers interactive touch screen projects for the Toshiba venue at Angels Stadium and Staples Center
+*	Architected and configured topology that included an open source server-side stack(Tomcat 8/Java 1.8/Jersey/Jackson/Hibernate 4.3/JDBC/MySQL 5.5) on Centos 6 VMs for production/development environments and ASP.Net functionality on Intel NUCs to support IntuiFace touch screen kiosks
+*	Designed and developed a REST API application that served Houston Astros images, player profiles, game schedule, and standings via JSON for IntuiFace Astros touch screens at Minute Maid Park. 
+*	Using Quartz scheduler, developed cron jobs to calculate baseball player eligibility for post-season awards.  On touch screen attached Windows 8 Intel NUC, I created .Net Web API 2, self-hosting, REST API server as a windows service to provide memory caching for expensive web service requests on the interactive touch screen.  Configured IntuiFace touch screen software to handle complex REST API calls to deliver dynamic content to Houston Astros touch screens. 
+*	Led implementation of SportRadar API to provide data source for hockey, basketball and baseball projects.  In java, created weather API that sourced its data from worldweatheronline and allowed for substitution of weather icons.
+*	Created capability to switch between modal, IntuiFace touch screen application to Windows app, air hockey game, using Web API, Windows executables and Windows API
+*	Drafted the technical response to City of Denver RFP that led to Toshiba win.  Architected and led requisition of Virtuoso digital signage web and data tiers.  Additionally, I configured Apache Tomcat 8 and MySQL 5.2 database on Centos Linux servers for both Virtuoso test and production instances.    
+
 
 September 2013           James Hardie
 To December 2013      Mission Viejo, CA
                        Contractor
-•	Created WCF services to retrieve active directory data in support of sales application
-•	Designed and developed rebate approval contract application in .Net 4.0, integrating web services 
-•	Designed and developed an installation audit application used by sales reps and management to goal track,  using Entity Framework v6, Linq to Entities, SQL Server 2012.  Functionality included historical reporting across geographic hierarchies
+*	Created WCF services to retrieve active directory data in support of sales application
+*	Designed and developed rebate approval contract application in .Net 4.0, integrating web services 
+*	Designed and developed an installation audit application used by sales reps and management to goal track,  using Entity Framework v6, Linq to Entities, SQL Server 2012.  Functionality included historical reporting across geographic hierarchies
 
 April 2013                     	Lifescript.com
 To July 2013                 	Mission Viejo, CA
 Software Engineer
-•	Designed and developed user controls (ascx) to include scripting: CSS styling and JavaScript to support advertising-driven website
-•	Configured Sitecore (content management system) to support Lifescript website
-•	Configured 3rd party APIs, like Google AdSense and Swoop, to integrate with web content 
+*	Designed and developed user controls (ascx) to include scripting: CSS styling and JavaScript to support advertising-driven website
+*	Configured Sitecore (content management system) to support Lifescript website
+*	Configured 3rd party APIs, like Google AdSense and Swoop, to integrate with web content 
 
 August 2010	               Solium.com (formerly “OptionEase.com”)
 To April 2013                   	Mission Viejo, CA
 			Software Engineer
-•	Designed and developed stock award transaction module for a employee stock option SAAS application in .NET 4.0 (C#) and SQL Server 2008R2
-•	Using AJAX and jQuery, enhanced transaction web pages to ascertain tax and stock share results
-•	Created the convertible debt module using c# and SQL views.  From the web, the module allows administration of convertible notes, including amortization and conversion to financing round 
-•	Created interface with Morgan Stanley Auto Ex system to port customer information via SFTP, using C# 
-•	Created tables, stored procedures, and SQL views, including a waterfall report that dynamically laid out financing rounds and payouts for all shareholders
+*	Designed and developed stock award transaction module for a employee stock option SAAS application in .NET 4.0 (C#) and SQL Server 2008R2
+*	Using AJAX and jQuery, enhanced transaction web pages to ascertain tax and stock share results
+*	Created the convertible debt module using c# and SQL views.  From the web, the module allows administration of convertible notes, including amortization and conversion to financing round 
+*	Created interface with Morgan Stanley Auto Ex system to port customer information via SFTP, using C# 
+*	Created tables, stored procedures, and SQL views, including a waterfall report that dynamically laid out financing rounds and payouts for all shareholders
  
 
 April 2009	               Pasadena Water & Power
 To June 2010 	               Pasadena, CA
 			Systems Analyst
-•	Designed and developed .NET 3.5, AJAX web application that calculates and prints billing charges for solar, electrical and water usage to derive current and past bills.
-•	Using C#, developed windows form to reference 3,000 customer account and water usage details in a database to populate an excel spreadsheet chart template and transfer the chart to a letter template for mailing
-•	Developed C# windows form to programmatically select, rename, file and index via database 5,000 jpeg vault/utility pole pictures 
-•	Maintained/Enhanced MS Access applications, including developing an automated email notification to PO owners for invoice sign-off 
+*	Designed and developed .NET 3.5, AJAX web application that calculates and prints billing charges for solar, electrical and water usage to derive current and past bills.
+*	Using C#, developed windows form to reference 3,000 customer account and water usage details in a database to populate an excel spreadsheet chart template and transfer the chart to a letter template for mailing
+*	Developed C# windows form to programmatically select, rename, file and index via database 5,000 jpeg vault/utility pole pictures 
+*	Maintained/Enhanced MS Access applications, including developing an automated email notification to PO owners for invoice sign-off 
 
 
 April 2006	               Public Storage
