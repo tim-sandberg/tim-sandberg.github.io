@@ -3,7 +3,7 @@
 <h3>tim@codegauchos.com</h3>
 
 <h2>EXPERIENCE</h2>		
-August 2017                Code Gauchos, Inc
+###August 2017                Code Gauchos, Inc
 To  Present                   Lake Forest, CA
                                      Chief Executive Officer
 				     
